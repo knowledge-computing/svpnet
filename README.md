@@ -2,7 +2,9 @@
 
 [Paper](paper/SigSpatial2023_spatiotemporal_prediction.pdf)
 
+Goal - Predict future frames conditioned on previous frames 
 
+<img src="paper/images/examples.jpg" width="600">
 
 ## Data
 
@@ -13,7 +15,6 @@
 [Sea Surface Temperature](https://drive.google.com/drive/folders/18NeYaRwkYN_uNURMbNGCI53-7TqvUvpU?usp=drive_link)
 
 [Turbulent](https://drive.google.com/drive/folders/1SKpIql11TjztGOuNPTZ2mHmKBp9R-AaE?usp=drive_link)
-
 
 ## Running the code
 
