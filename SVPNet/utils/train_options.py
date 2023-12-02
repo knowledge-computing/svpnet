@@ -51,7 +51,7 @@ def parse_args():
     
 def data_configuration(args):
     
-    args.data_root = '/home/yaoyi/lin00786/data/spatiotemporal/data'
+    args.data_root = ''
     
     if args.data_source.startswith('moving_mnist'):
         args.data_path = os.path.join(args.data_root, 'moving_mnist')
